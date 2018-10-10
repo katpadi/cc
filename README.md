@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Once installed, just run "bundle exec cc" for the complete available commands.
+
+Here are the commands anyway:
+
+    $ cc csv [pdf_path]   # Directory path of the PDF statements
+    $ cc eval [pdf_path]   # Directory path of the PDF statements
+    $ cc help [COMMAND]
 
 ## Development
 
