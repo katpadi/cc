@@ -38,5 +38,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "thor", "~> 0.20"
   spec.add_dependency "json", "~> 2.1.0"
   spec.add_dependency "pdf-reader", "~> 2.1.0"
+  spec.add_dependency "smarter_csv", "~> 1.2.5"
 end
 

@@ -4,6 +4,7 @@ PATH
     cc (0.1.0)
       json (~> 2.1.0)
       pdf-reader (~> 2.1.0)
+      smarter_csv (~> 1.2.5)
       thor (~> 0.20)
 
 GEM
@@ -36,6 +37,7 @@ GEM
       rspec-support (~> 3.7.0)
     rspec-support (3.7.1)
     ruby-rc4 (0.1.5)
+    smarter_csv (1.2.5)
     thor (0.20.0)
     ttfunk (1.5.1)
 
