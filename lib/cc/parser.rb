@@ -13,8 +13,6 @@ module Cc
     end
 
     def execute
-      puts "YEAH!"
-      puts output_file
       CSV.open(output_file, "w+") do |csv|
         csv << %w(customer_name file statement_date page transaction_date post_date info currency amount)
         statements.each do |statement|
